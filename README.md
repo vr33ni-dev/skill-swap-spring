@@ -105,4 +105,4 @@ GET /match/{matchId} — Get messages for a match
 This project is licensed under the MIT License.
 
 ---
-> **Note:** The canonical repository is [**on GitHub**](https://github.com/vr33ni-dev/skill-swap-spring) · [Mirror on GitLab →](https://gitlab.com/vr33ni-personal/skill-swap-spring.git) [![Mirror Status](https://github.com/vr33ni-dev/skill-swap-spring/actions/workflows/mirror.yml/badge.svg)](https://github.com/vr33ni-dev/skill-swap-spring/actions/workflows/mirror.yml)
+> **Note:** The canonical repository is [**on GitHub**](https://github.com/vr33ni-dev/skill-swap-spring) · [Mirror on GitLab →](https://gitlab.com/vr33ni-personal/skill-swap-spring.git) [![Mirror Status](https://github.com/vr33ni-dev/skill-swap-spring/actions/workflows/gitlab-mirror.yml/badge.svg)](https://github.com/vr33ni-dev/skill-swap-spring/actions/workflows/gitlab-mirror.yml)
